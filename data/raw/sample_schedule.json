@@ -1,0 +1,1 @@
+{"dates": [{"date": "2022-10-07", "games": [{"gamePk": 2022020001, "teams": {"home": {"team": {"id": 1}, "score": 3}, "away": {"team": {"id": 2}, "score": 2}}, "status": {"abstractGameState": "Final"}, "venue": {"name": "Sample Arena"}}]}]}

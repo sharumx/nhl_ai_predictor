@@ -1,0 +1,5 @@
+team_id,season,games_played,wins,losses,ot_losses,pts,goals_per_game,goals_against_per_game,powerplay_pct,penalty_kill_pct,shots_per_game,shots_allowed
+1,20242025,82,52,22,8,112,3.6,2.6,25.2,83.8,33.2,28.1
+2,20242025,82,48,28,6,102,3.4,2.9,23.5,81.2,31.5,29.8
+3,20242025,82,45,29,8,98,3.5,3.0,24.1,80.5,32.8,30.2
+4,20242025,82,43,32,7,93,3.3,3.1,22.8,79.4,31.2,30.5

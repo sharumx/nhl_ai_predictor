@@ -1,0 +1,17 @@
+team_id,team_name,team_abbrev,conference,division,first_year
+1,Boston Bruins,BOS,Eastern Conference,Atlantic Division,1924
+2,Tampa Bay Lightning,TBL,Eastern Conference,Atlantic Division,1992
+3,Toronto Maple Leafs,TOR,Eastern Conference,Atlantic Division,1917
+4,Florida Panthers,FLA,Eastern Conference,Atlantic Division,1993
+5,New York Rangers,NYR,Eastern Conference,Metropolitan Division,1926
+6,Carolina Hurricanes,CAR,Eastern Conference,Metropolitan Division,1979
+7,New York Islanders,NYI,Eastern Conference,Metropolitan Division,1972
+8,Washington Capitals,WSH,Eastern Conference,Metropolitan Division,1974
+9,Colorado Avalanche,COL,Western Conference,Central Division,1979
+10,Dallas Stars,DAL,Western Conference,Central Division,1967
+11,Minnesota Wild,MIN,Western Conference,Central Division,2000
+12,Nashville Predators,NSH,Western Conference,Central Division,1998
+13,Vegas Golden Knights,VGK,Western Conference,Pacific Division,2017
+14,Edmonton Oilers,EDM,Western Conference,Pacific Division,1979
+15,Los Angeles Kings,LAK,Western Conference,Pacific Division,1967
+16,Vancouver Canucks,VAN,Western Conference,Pacific Division,1970

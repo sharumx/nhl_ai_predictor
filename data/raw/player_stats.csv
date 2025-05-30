@@ -1,0 +1,5 @@
+player_id,player_name,team_id,position,position_type,season,position_code,games,goals,assists,points,plus_minus,wins,losses,save_pct,goals_against_avg
+1,Player One,1,Center,Forward,20222023,S,80,42.0,50.0,92.0,15.0,,,,
+2,Player Two,1,Goalie,Goalie,20222023,G,60,,,,,35.0,20.0,0.915,2.45
+3,Player Three,2,Right Wing,Forward,20222023,S,82,38.0,45.0,83.0,10.0,,,,
+4,Player Four,2,Goalie,Goalie,20222023,G,55,,,,,30.0,18.0,0.905,2.65

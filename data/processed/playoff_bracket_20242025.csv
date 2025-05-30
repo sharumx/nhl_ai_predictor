@@ -1,0 +1,16 @@
+round,series_id,home_team_id,away_team_id,home_wins,away_wins,winner_id,completed,season,home_team_name,away_team_name,home_team_abbrev,away_team_abbrev,winner_name,winner_abbrev
+First Round,E1,1.0,8.0,4,3,1,True,20242025,Boston Bruins,Washington Capitals,BOS,WSH,Boston Bruins,BOS
+First Round,E2,5.0,4.0,4,2,5,True,20242025,New York Rangers,Florida Panthers,NYR,FLA,New York Rangers,NYR
+First Round,E3,6.0,7.0,4,0,6,True,20242025,Carolina Hurricanes,New York Islanders,CAR,NYI,Carolina Hurricanes,CAR
+First Round,E4,2.0,3.0,4,3,2,True,20242025,Tampa Bay Lightning,Toronto Maple Leafs,TBL,TOR,Tampa Bay Lightning,TBL
+First Round,W1,9.0,12.0,4,3,9,True,20242025,Colorado Avalanche,Nashville Predators,COL,NSH,Colorado Avalanche,COL
+First Round,W2,13.0,15.0,2,4,15,True,20242025,Vegas Golden Knights,Los Angeles Kings,VGK,LAK,Los Angeles Kings,LAK
+First Round,W3,11.0,16.0,4,2,11,True,20242025,Minnesota Wild,Vancouver Canucks,MIN,VAN,Minnesota Wild,MIN
+First Round,W4,10.0,14.0,1,4,14,True,20242025,Dallas Stars,Edmonton Oilers,DAL,EDM,Edmonton Oilers,EDM
+Second Round,E1,1.0,2.0,4,0,1,True,20242025,Boston Bruins,Tampa Bay Lightning,BOS,TBL,Boston Bruins,BOS
+Second Round,E2,5.0,6.0,4,1,5,True,20242025,New York Rangers,Carolina Hurricanes,NYR,CAR,New York Rangers,NYR
+Second Round,W1,9.0,14.0,4,3,9,True,20242025,Colorado Avalanche,Edmonton Oilers,COL,EDM,Colorado Avalanche,COL
+Second Round,W2,15.0,11.0,4,0,15,True,20242025,Los Angeles Kings,Minnesota Wild,LAK,MIN,Los Angeles Kings,LAK
+Conference Finals,E,1.0,5.0,4,0,1,True,20242025,Boston Bruins,New York Rangers,BOS,NYR,Boston Bruins,BOS
+Conference Finals,W,9.0,15.0,2,4,15,True,20242025,Colorado Avalanche,Los Angeles Kings,COL,LAK,Los Angeles Kings,LAK
+Stanley Cup Final,F,1.0,15.0,4,3,1,True,20242025,Boston Bruins,Los Angeles Kings,BOS,LAK,Boston Bruins,BOS

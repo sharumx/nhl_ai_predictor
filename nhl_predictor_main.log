@@ -1,0 +1,5 @@
+2025-05-16 02:19:18,312 - nhl_predictor_main - INFO - Starting data collection
+2025-05-16 02:19:55,787 - nhl_predictor_main - INFO - Starting data preprocessing
+2025-05-16 02:19:58,252 - nhl_predictor - ERROR - File not found: /Users/sharummazharuddin/nhl_ai_predictor/data/raw/schedule.csv
+2025-05-16 02:19:58,252 - nhl_predictor_main - ERROR - Error in data preprocessing: File not found: /Users/sharummazharuddin/nhl_ai_predictor/data/raw/schedule.csv
+2025-05-16 02:21:06,361 - nhl_predictor_main - INFO - Starting data collection
